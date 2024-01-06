@@ -1,5 +1,5 @@
 # ying1488
-<h1 align="center">Hi 👋, I'm Ying</h1>
+<h1 align="center">Hi 👋 I'm Ying</h1>
 <h3 align="center">A passionate front end developer from Melbourne,Australia</h3>
 
 - 🌱 I’m currently working with JS,  REACT (TS coming soon)
