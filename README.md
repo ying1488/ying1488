@@ -1,2 +1,2 @@
 # yingintech
-My profile readme , pleasure to meet you if you're here 
+My profile readme , pleasure to meet you (now that you are here !)
