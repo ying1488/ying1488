@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ying</h1>
 <h3 align="center">A passionate front end developer from Melbourne Australia</h3>
 
-- 🌱 I’m currently learning **working on JS REACT (TS coming soon)**
+- 🌱 I’m currently working on JS REACT (TS coming soon)
 
-- 💬 Ask me about **FrontEnd (if you'd like a teammate for a hackathon))**
+- 💬 Ask me about **FrontEnd and why i find CSS so amusing **
 
 - 📫 How to reach me **yingintech@gmail.com**
 
