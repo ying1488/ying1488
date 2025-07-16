@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋 I'm Ying</h1>
 <h3 align="center">A passionate front end developer from Melbourne,Australia</h3>
 
-- 🌱 I’m currently working with JS, TS, React, Next,js, GraphQL (SQL coming soon)
+- 🌱 I’m currently working with JS, TS, React, Next.js, Python, SQL, GraphQL
 
-- 💬 Ask me about **FrontEnd and why i find CSS so amusing**
+- 💬 Ask me about **FrontEnd and why I find CSS so amusing**
 
 - 📫 How to reach me **yingintech@gmail.com**
 
